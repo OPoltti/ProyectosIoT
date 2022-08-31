@@ -1,0 +1,24 @@
+* {
+	font-family: 'Kanit', sans-serif;
+	font-weight: 900;
+	font-size: 25px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.datos {
+	position: static;
+	background-color: lightblue;
+	display: inline-block;
+	padding: 60px;
+	box-sizing: border-box;
+	text-align: center;
+	margin: 50px 250px;
+	border-radius: 10px;
+	border: 5px dashed #808080;
+	box-shadow: 2px 4px 15px 0 #000;
+	text-shadow: 2px 2px 7px #c0c0c0;
+}
+
