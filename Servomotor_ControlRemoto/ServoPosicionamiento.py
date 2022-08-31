@@ -1,6 +1,6 @@
 from gpiozero import Servo
 import math
-from time import sleep
+from time import sleep 
 from firebase import firebase
 firebase = firebase.FirebaseApplication('https://seguidorsolarporiot-feria-default-rtdb.firebaseio.com', None)
 import RPi.GPIO as GPIO
