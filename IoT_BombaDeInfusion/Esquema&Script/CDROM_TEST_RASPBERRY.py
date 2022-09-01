@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 import time
 import threading
-import sys #Libreria que permite finalizar programa con sys.exit()
+import sys #Libreria que permite finalizar programa utilizando sys.exit()
 from time import sleep
 from firebase import firebase
 
