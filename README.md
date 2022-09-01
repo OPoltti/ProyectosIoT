@@ -2,6 +2,7 @@
 Proyectos de instrumentación electrónica en IoT
 
 BOMBA DE INFUSION O JERINGA:
+
 Se implementa un proyecto IoT que desarrolla tanto la parte de software como de hardware comunicandose entre sí por medio de una base de datos en la nube 
 a través de internet. 
 La primera etapa involucra el diseño del aplicativo web utilizando lenguaje Java, CCS HTML, con la finalidad de enviar la ejecucion de los comandos a la base 
